@@ -1,0 +1,50 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>ShrekTek Main Site</title>
+        <link rel = "stylesheet"
+              type = "text/css"
+              href = "main.css" />
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <!-- It's going to be a shrek-themed internal homepage discussing the company values. It will have a bulletin board for the company and a gallery of shrek memes -->
+
+    </head>
+    <!--#include virtual="/snippets/header.html" -->
+
+
+
+    <div class="body-text">
+        <h1>ShrekTek: Your Swamp-tastic Website and Code Hosting</h1>
+        <p>Secure, reliable hosting for your digital home</p>
+        <p>We expect our employees to keep these selling points in mind. Please become familiar with what we offer and what perks of working with us exist!</p>
+    </div>
+
+    <div class="body-text">
+        <h2>Our Services</h2>
+        <ul class="body-list">
+            <li>Secure Website Hosting</li>
+            <li>Code Repository Management</li>
+            <li>Domain Registration</li>
+        </ul>
+    </div>
+
+    <div class="body-text">
+        <h2>Why Choose ShrekTek?</h2>
+        <ul class="body-list">
+            <li>Lightning-fast load times</li>
+            <li>09.9% uptime guarantee</li>
+            <li>24/7 expert support</li>
+            <li>Affordable pricing</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>

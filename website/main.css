@@ -1,0 +1,73 @@
+@font-face {
+    font-family: shrek;
+    src: url('fonts/donkey.ttf');
+}
+
+h1.title {
+    font-family: shrek;
+}
+
+div.title {
+    background-color: #D1E000;
+}
+div {
+    text-align: center;
+    padding: 5pt;
+    display: block;
+    justify-content: center;
+    border-radius: 5pt
+}
+
+ul {
+   padding: 0;
+}
+div.body-text {
+    margin: 40pt;
+    background-color: #FFFFFF;
+}
+
+div.status-bar {
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+
+}
+ul.body-list {
+    list-style-type:none;
+}
+
+ul {
+    list-style-type:none;
+}
+
+
+ul.status-bar {
+    margin: 0;
+    padding: 0;
+
+    /*    overflow: hidden; */
+    list-style-type:none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+li.status-bar {
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 5pt;
+
+    border-radius: 5pt;
+    margin-left: 4pt;
+
+
+    background-color: #7300D4;
+}
+li.status-bar:hover {
+    background-color: #490087;
+}
+
+
+body {
+    background-image: url('img/shrek.webp');
+}

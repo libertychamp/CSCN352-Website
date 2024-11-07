@@ -1,0 +1,32 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>ShrekTek Main Site</title>
+        <link rel = "stylesheet"
+              type = "text/css"
+              href = "main.css" />
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <!-- It's going to be a shrek-themed internal homepage discussing the company values. It will have a bulletin board for the company and a gallery of shrek memes -->
+
+    </head>
+        <!--#include virtual="/snippets/header.html" -->
+
+    <div class="body-text">
+        <h1>Shrek Gallery</h1>
+        <p>The spirit of our company is best expressed through Shrek, our namesake and founding investor. These pictures should inspire every employee to greater effort and harder work.</p>
+        <img src="img/shrek-and-friends.webp" alt="Shrek and his friends">
+        <img src="img/shrek-happy.webp" alt="A model of smiling shrek">
+        <img src="img/shrek-and-fiona.webp" alt="Shrek and Fiona share a special moment after Shrek 3">
+        <img src="img/shrek-week.webp" alt="Concept poster for Shrek Week">
+
+
+    </div>
+
+    </body>
+</html>
